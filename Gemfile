@@ -64,5 +64,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "loofah", ">= 2.3.1"
 gem "rack", ">= 2.0.8"
 gem "nokogiri", ">= 1.10.8"
-
+gem "rubyzip", ">= 1.3.0"
 gem "actionview", ">= 5.2.4.2"
